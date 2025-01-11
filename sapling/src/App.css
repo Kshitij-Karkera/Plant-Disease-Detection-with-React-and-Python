@@ -1,0 +1,135 @@
+* {
+	transition: .5s;
+	font-family: 'Poppins';
+    color: #fff;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+.container {
+	display: flex;
+	position: relative;
+	overflow: hidden;
+	height: 100vh;
+	flex-direction: column;
+}
+
+body{
+	background: #1F1D2B;
+	overflow-x: hidden;
+	box-sizing: border-box;
+	margin: 0;
+	position: relative;
+}
+
+.display {
+	display: flex;
+	justify-content: center;
+	width: 100%;
+	margin-top: 5.5em;
+	margin-bottom: 6.5em;
+}
+
+.Name {
+	height: 100%;
+  	background: linear-gradient(93.51deg, #9B51E0 2.84%, #3081ED 99.18%);
+	background-clip: text;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+  	font-style: normal;
+  	font-weight: 700;
+  	font-size: 32px;
+	z-index: 2;
+	margin-top: 1em;
+	margin-left: 1em;
+}
+
+ body #circle1{
+	position: absolute;
+	z-index: 1;
+	bottom: -13em;
+	left: -10em;
+	width: 350px;
+	height: 350px;
+	background: linear-gradient(#ffc107,#e91e63);
+	border-radius: 50%;
+	animation: circle1mov 3s infinite ease-in-out;
+}
+
+@keyframes circle1mov {
+  0%{
+		width: 350px;
+		height: 350px;
+	}
+	50%{
+		width: 400px;
+		height: 400px;
+	}
+	100%{
+		width: 350px;
+		height: 350px;
+	}
+}
+
+ body #circle2{
+	position: absolute;
+	z-index: 1;
+	top: -11em;
+	right: -11em;
+	width: 350px;
+	height: 350px;
+	background: linear-gradient(#2196f3,#31ff38);
+	border-radius: 50%;
+	animation: circle2mov 3s infinite ease-in-out;
+}
+
+@keyframes circle2mov {
+	0%{
+		width: 350px;
+		height: 350px;
+	}
+	50%{
+		width: 400px;
+		height: 400px;
+	}
+	100%{
+		width: 350px;
+		height: 350px;
+	}
+}
+
+.webname{
+	display: flex;
+	align-items: flex-start;
+	width: 100%;
+}
+
+::-webkit-scrollbar {
+	width: .8em;
+	height: .5em;
+}
+
+::-webkit-scrollbar-track {
+	background-color: #1F1D2B;
+	border-radius: 20px;
+	margin-block: .5em;
+}
+
+::-webkit-scrollbar-thumb {
+	background: linear-gradient(#3081ED, #9B51E0);
+	border-radius: 20px;
+	border: 4px solid #1F1D2B;
+}
+
+@media screen and (max-width: 1000px) {
+	#circle1 {
+		bottom: -35em;
+	}
+
+	.container {
+		height: max-content;
+	}
+
+}

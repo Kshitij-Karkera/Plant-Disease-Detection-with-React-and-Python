@@ -1,0 +1,161 @@
+.display {
+	display: flex;
+	justify-content: center;
+	width: 100%;
+	margin-top: 5.5em;
+	margin-bottom: 6.5em;
+}
+
+#textstyle{
+    background: linear-gradient(93.51deg, #9B51E0 2.84%, #3081ED 99.18%);
+	background-clip: text;
+    -webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+    padding: 2px;
+    border-radius: 10px;
+}
+
+.svgcontainer svg{
+	object-fit: cover;
+  	flex-shrink: 0;
+  	width: 270px;
+  	height: 270px;
+  	border-radius: 20px;
+}
+
+.info {
+	display: flex;
+	flex-direction: column;
+	padding: 1em;
+	margin-left: 5%;
+	z-index: 2;
+}
+
+.infobox-boldtext {
+    font-size: 45px;
+    line-height: 50px;
+    color: #fff;
+  }
+.infobox-slimtext {
+  margin: 24px 0;
+  font-family: Poppins;
+  color: #FFFFFF;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 0.5px;
+  text-align: left;
+}
+.svgcontainer{
+	background: #1F1D2B;
+	padding: 12px;
+    border: 1px solid;
+    border-radius: 35px;
+    overflow: hidden;
+}
+.custom-file-upload{
+  display: flex;
+  flex-direction: column;
+	padding-top: 10px;
+}
+#custom-button{
+	padding: 10px;
+	color: #fff;
+	background: transparent;
+	border: 1px solid #000;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+#custom-button label {
+  pointer-events: none;
+}
+
+#custom-button:hover{
+	background-color: #2b283b;
+}
+
+#custom-text{
+  text-align: center;
+  margin-top: .5em;
+	margin-left: 10px;
+	color: #767578;
+}
+.blockdis{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	width: max-content;
+	margin: 0 10%;
+	z-index: 1;
+}
+.predictbtn{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	outline: 1px solid #000;
+	border: 1px solid #000;
+ 	width: 150px;
+ 	height: 40px;
+ 	background: #1F1D2B;
+ 	color: #fff;
+ 	padding: .5em;
+	margin-top: 1em;
+	cursor: pointer;
+}
+.predictbtn:hover{
+	background-color: #2b283b;
+  outline: 1px solid #fff;
+	border: 1px solid #fff;
+}
+
+@media screen and (max-width: 1000px) {
+	.display {
+		flex-direction: column;
+		margin-top: 2em;
+	}
+
+	.info {
+		margin-right: 5%;
+	}
+
+	.blockdis {
+		width: 100%;
+		margin: 0;
+	}
+
+	.Name {
+		font-size: 2.5em;
+	}
+}
+
+.loader-20 {
+  width: 17px;
+  height: 17px;
+  border: 4px solid;
+  border-top-color: #3081ED;
+  border-left-color: transparent;
+  border-bottom-color: #9B51E0;
+  border-right-color: transparent;
+  border-radius: 50%;
+  display: inline-block;
+  -webkit-animation: rotation 1s linear infinite;
+          animation: rotation 1s linear infinite;
+}
+@-webkit-keyframes rotation {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+@keyframes rotation {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}

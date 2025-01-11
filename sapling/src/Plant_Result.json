@@ -1,0 +1,412 @@
+[
+	{
+		"Plant_Name": "Apple",
+		"Plant_Disease": "Apple scab",
+		"Disease_Description":"Apple scab, disease of apple trees caused by the ascomycete fungus Venturia inaequalis. Apple scab is found wherever apples and crabapples are grown but is most severe where spring and summer are cool and moist. The disease can cause high crop losses and is thus of economic import to apple growers.",
+		"Treatment":[
+					 "1) Bonide Sulfur Plant Fungicide, a finely ground wettable powder, is used in pre-blossom applications and must go on before rainy or spore discharge periods.",
+					 "2) Apply from pre-pink through cover (2 Tbsp/ gallon of water), or use in cover sprays up to the day of harvest."
+					]
+	},
+	{
+		"Plant_Name": "Apple",
+		"Plant_Disease": "Black Rot",
+		"Disease_Description":"Black rot is caused by the fungus Diplodia seriata (syn Botryosphaeria obtusa). The fungus can infect dead tissue as well as living trunks, branches, leaves and fruits. The black rot fungi survive Minnesota winters in branch cankers and mummified fruit (shriveled and dried fruit) attached to the tree.",
+		"Treatment":[
+					 "1) Prune out dead or diseased branches.",
+					 "2) Pick all dried and shriveled fruits remaining on the trees.",	
+					 "3) Remove infected plant material from the area.",	
+					 "4) All infected plant parts should be burned, buried or sent to a municipal composting site.",
+					 "5) Be sure to remove the stumps of any apple trees you cut down.",
+					 "6) Dead stumps can be a source of spores."	
+					]
+	},
+	{
+		"Plant_Name": "Apple",
+		"Plant_Disease": "Cedar Rust",
+		"Disease_Description":"Apple rust, plant disease that primarily affects eastern red cedar (Juniperus virginiana) and various apple and crabapple species (genus Malus) in North America and that is caused by the fungus Gymnosporangium juniperi-virginianae.",
+		"Treatment":[
+					 "1) Fungicides with the active ingredient Myclobutanil are most effective in preventing rust.",
+					 "2) Fungicides are only effective if applied before leaf spots or fruit infection appear.",
+					 "3) Spray trees and shrubs when flower buds first emerge until spring weather becomes consistently warm and dry.",
+					 "4) Monitor nearby junipers."
+					]
+	},
+	{
+		"Plant_Name": "Apple",
+		"Plant_Disease": "Healthy",
+		"Suggestions":[
+					 "1) Pay attention to the soil.",
+					 "2) Watering, weeding, fertilizing and staking trees.",
+					 "3) Thinning fruits.",
+					 "4) Harvesting & storing fruits.",
+					 "5) Don’t Forget to Provide Room to Grow.",
+					 "6) Try to provide more sunlight."
+					]
+	},
+	{
+		"Plant_Name": "Blueberry",
+		"Plant_Disease": "Healthy",
+		"Suggestions":[
+					 "1) Prune for shape during the winter or fall after the plant has fruited.",
+					 "2) Remove dead wood during the summer and winter months.",
+					 "3) Grow in moist, well-draining soil.",
+					 "4) Plant in full sun to partial shade.",
+					 "5) Mulch with three inches of organic matter placed at least an inch from the plant’s stem."
+					]
+	},
+	{
+		"Plant_Name": "Cherry",
+		"Plant_Disease": "Powdery mildew",
+		"Disease_Description":"Powdery mildew of sweet and sour cherry is caused by Podosphaera clandestina, an obligate biotrophic fungus. Mid- and late-season sweet cherry (Prunus avium) cultivars are commonly affected, rendering them unmarketable due to the covering of white fungal growth on the cherry surface.",
+		"Treatment":[
+					 "1) Some fungicides that may eradicate a powdery mildew infection are horticultural oils, sulfur, and biological fungicides.",
+					 "2) Sulfur has to be applied before symptoms show up in a tree, and biological products use bacteria that consume the mildew.",
+					 "3) The latter is not as effective as oils or sulfur."
+					]
+	},
+	{
+		"Plant_Name": "Cherry",
+		"Plant_Disease": "Healthy",
+		"Suggestions":[
+					 "1) Water your tree, Maintain the soil by using a soaker hose around the tree for deep watering.",
+					 "2) Fertilize the soil. Give your tree sufficient nutrients for it to reach its optimal health and fruit production.",
+					 "3) Keep your tree healthy and fruitful by balancing the top growth of your tree through pruning.",
+					 "4) Keep pests away. Humans are not the only ones attracted to this shiny, tasty, juicy fruit."
+					]
+	},
+	{
+		"Plant_Name": "Corn",
+		"Plant_Disease": "Gray Leaf Spot",
+		"Disease_Description":"Symptoms seen on corn include leaf lesions, discoloration (chlorosis), and foliar blight. Distinct symptoms of GLS are rectangular, brown to gray necrotic lesions that run parallel to the leaf, spanning the spaces between the secondary leaf veins.",
+		"Treatment":[
+					 "1) Management strategies for gray leaf spot include tillage, crop rotation and planting resistant hybrids.",
+					 "2) Fungicides may be needed to prevent significant loss when plants are infected early and environmental conditions favor disease."
+					]
+	},
+	{
+		"Plant_Name": "Corn",
+		"Plant_Disease": "Common Rust",
+		"Disease_Description":"Common rust produces rust-colored to dark brown, elongated pustules on both leaf surfaces. The pustules contain rust spores (urediniospores) that are cinnamon brown in color. Pustules darken as they age. Leaves, as well as sheaths, can be infected.",
+		"Treatment":[
+					 "1) Maize rusts are generally controlled by the use of resistant maize hybrids, and by foliar applications of fungicides on sweet corn.",
+					 "2) Cultural practices may be effective in areas where rust spores can overwinter on debris or where infected Oxalis species are a source of spores."
+					]
+	},
+	{
+		"Plant_Name": "Corn",
+		"Plant_Disease": "Leaf Blight",
+		"Disease_Description":"Typical symptoms of northern corn leaf blight are canoe-shaped lesions 1 inch to 6 inches long. The lesions are initially bordered by gray-green margins. They eventually turn tan colored and may contain dark areas of fungal sporulation.",
+		"Treatment":[
+					 "1) Treating northern corn leaf blight involves using fungicides.",
+					 "2) For most home gardeners this step isn't needed, but if you have a bad infection, you may want to try this chemical treatment.",
+					 "3) The infection usually begins around the time of silking, and this is when the fungicide should be applied."
+					]
+	},
+	{
+		"Plant_Name": "Corn",
+		"Plant_Disease": "Healthy",
+		"Suggestions":[
+					 "1) Plant Early, Plant Effectively.",
+					 "2) Practice Seasonal Soil Rotation.",
+					 "3) Ensure Proper Water Drainage & Utilize Fertilizers.",
+					 "4) Side-dress plants with a high-nitrogen fertilizer when corn is 8 inches tall.",
+					 "5) Wind pollination is critical to develop full cobs of kernels.",
+					 "6) Mulch helps to reduce evaporation around the plants.",
+					 "7) To keep stalks standing straight during high winds, mound soil around the base of 12-inch-tall plants."
+					]
+	},
+	{
+		"Plant_Name": "Grape",
+		"Plant_Disease": "Black Rot",
+		"Disease_Description":"The disease attacks the leaves, stem, flowers and berries. All the new growth on the vineis prone to attack during the growing season.The symptoms are in the form of irregularly shapedreddish brown spots on the leaves and a black scab on berries.Occasionally, small elliptical darkcoloured canker lesions occur on the young stems and tendrils. Leaf, cane and tendril infection canoccur only when the tissue is young, but berries can be infected until almost fully-grown if an activefungicide residue is not present.The affected berries shrivel and become hard black mummies.",
+		"Treatment":[
+					 "1) Mancozeb, and Ziram are all highly effective against black rot.",
+					 "2) Because these fungicides are strictly protectants, they must be applied before the fungus infects or enters the plant.",
+					 "3) They protect fruit and foliage by preventing spore germination.",
+					 "4) They will not arrest lesion development after infection has occurred."
+					]
+	},
+	{
+		"Plant_Name": "Grape",
+		"Plant_Disease": "Esca",
+		"Disease_Description":"One of the common fungal diseases is Esca (Black Measles) which is found in the Grape Plants and can be easily identified as brown streaking lesions on any part of the leaf. The affected leaves can dry off completely and fall off from the plant prematurely which eventually results in death of the plant.",
+		"Treatment":[
+					 "1) Curative methods are also used to save esca-infected vines or at least prolong their life.",
+					 "2) One of these methods is grapevine surgery, where the grapevine trunk is cut open using a chainsaw.",
+					 "3) They protect fruit and foliage by preventing spore germination.",
+					 "4) Another smaller chainsaw is used to clean the trunk by removing dead/infected wood, leaving the trunk open to dry."
+					]
+	},
+	{
+		"Plant_Name": "Grape",
+		"Plant_Disease": "Leaf Blight",
+		"Disease_Description":"On leaf surface we will see lesions which are irregularly shaped (2 to 25 mm in diameter). Initially lesions are dull red to brown in color turn black later. If disease is severe this lesions may coalesce. On berries we can see symptom similar to black rot but the entire clusters will collapse.",
+		"Treatment":[
+					 "1) Fungicides sprayed for other diseases in the season may help to reduce this disease.",
+					 "2) Apply dormant sprays to reduce inoculum levels.",
+					 "3) Use protectant and systemic fungicides.",
+					 "4) Open up that canopy."
+					]
+	},
+	{
+		"Plant_Name": "Grape",
+		"Plant_Disease": "Healthy",
+		"Suggestions":[
+					 "1) Construct a trellis before planting.",
+					 "2) Grape vines need to be trained to grow upward select a sunny location.",
+					 "3) The soil should be deep, well-drained, and loose.",
+					 "4) Grapes thrive well in the soil with good air circulation.",
+					 "5) Space the vines about 6 to 10 feet apart."
+					 ]
+	},
+	{
+		"Plant_Name": "Orange",
+		"Plant_Disease": "Haunglongbing",
+		"Disease_Description":"Huanglongbing (HLB) or citrus greening is the most severe citrus disease.a disease of citrus caused by a vector-transmitted pathogen.The causative agents are motile bacteria, Liberibacter spp.HLB is distinguished by the common symptoms of yellowing of the veins and adjacent tissues; followed by splotchy mottling of the entire leaf, premature defoliation, dieback of twigs, decay of feeder rootlets and lateral roots, and decline in vigor, ultimately followed by the death of the entire plant.",
+		"Treatment":[
+					 "1) Some cultural practices can be effective in managing this disease.",
+					 "2) Cultural methods include antibacterial management, sanitation, removal of infected plants, frequent scouting, and most importantly, crisis declaration.",
+					 "3) antibiotics, specifically streptomycin and oxytetracycline."
+					]
+	},
+	{
+		"Plant_Name": "Peach",
+		"Plant_Disease": "Bacterial Spot",
+		"Disease_Description":"Bacterial spot is an important disease of peaches by Xanthomonas campestris pv. pruni. Symptoms of this disease include fruit spots, leaf spots, and twig cankers. Fruit symptoms include pitting, cracking, gumming, and watersoaked tissue, which can make the fruit more susceptible to brown rot, rhizopus, and other fungal infections. Numerous small spots form on the leaves. The spots are angular, purple to purplish-brown or black.",
+		"Treatment":[
+					 "1) Keep your peach trees healthy by properly pruning out any diseased or dead limbs and fertilize and water as necessary. Too much nitrogen can aggravate the disease.",
+					 "2) While there are no completely successful sprays for control of this disease, chemical spray with copper-based bactericide and the antibiotic oxytetracycline have some effect used preventatively.",
+					 "3) Talk to your local extension office or nursery for information. Chemical control is doubtful, however, so the best long-term control is to plant resistant cultivars."
+					]
+	},
+	{
+		"Plant_Name": "Peach",
+		"Plant_Disease": "Healthy",
+		"Suggestions":[
+					 "1) Peach trees need good drainage, and like their soil on the sandy side.",
+					 "2) Adding an organic mulch around the tree, like leaf mold or compost, helps suppress weeds and keeps the soil healthy and slightly acidic.",
+					 "3) Peaches like moderate temperatures and generally grow best in USDA growing zones 5a to 8a.",
+					 "4) Apply a balanced 10-10-10 fertilizer around your peach trees each spring."
+					 ]
+	},
+	{
+		"Plant_Name": "Pepper Bell",
+		"Plant_Disease": "Bacterial Spot",
+		"Disease_Description":"Bacteria attack the foliage, stems, and fruit of peppers and tomatoes. On peppers, lesions may form on fruit, including the peduncle, but the major crop loss results from shedding of blossoms and young, developing fruit. yellow-green lesions on young leaves which usually appear deformed and twisted  or as dark, water soaked, greasy-appearing lesions on older foliage.",
+		"Treatment":[
+					 "1) Treat seeds by soaking them for 2 minutes in a 10% chlorine bleach solution (1 part bleach; 9 parts water).",
+					 "2) Thoroughly rinse seeds and dry them before planting.",
+					 "3) Spray every 10-14 days with fixed copper (organic fungicide) to slow down the spread of infection."
+					]
+	},
+	{
+		"Plant_Name": "Pepper Bell",
+		"Plant_Disease": "Healthy",
+		"Suggestions":[
+					 "1) Black plastic mulch can help absorb the sun and keep your ground soil warm.",
+					 "2) Bell peppers need a deep watering, about one to two inches per week.",
+					 "3) Fertilize with a compound that’s low in nitrogen to help your bell peppers grow without affecting the rate of fruit production."
+					 ]
+	},
+	{
+		"Plant_Name": "Potato",
+		"Plant_Disease": "Early Blight",
+		"Disease_Description":"Early blight is primarily a disease of stressed or senescing plants. Symptoms appear first on the oldest foliage. Affected leaves develop circular to angular dark brown lesions 0.12 to 0.16 inch (3–4 mm) in diameter. Concentric rings often form in lesions to produce characteristic target-board effect. Severely infected leaves turn yellow and drop. Infected tubers show a brown, corky dry rot.",
+		"Treatment":[
+					 "1) Drip irrigation and soaker hoses can be used to help keep the foliage dry.",
+					 "2) For best control, apply copper-based fungicides early, two weeks before disease normally appears or when weather forecasts predict a long period of wet weather.",
+					 "3) SERENADE Garden is a broad spectrum, preventative bio-fungicide."
+					]
+	},
+	{
+		"Plant_Name": "Potato",
+		"Plant_Disease": "Late Blight",
+		"Disease_Description":"The first symptoms of late blight in the field are small, light to dark green, circular to irregular-shaped water-soaked spots. These lesions usually appear first on the lower leaves. Lesions often begin to develop near the leaf tips or edges, where dew is retained the longest.",
+		"Treatment":[
+					 "1) Late blight is controlled by eliminating cull piles and volunteer potatoes, using proper harvesting and storage practices, and applying fungicides when necessary.",
+					 "2) Air drainage to facilitate the drying of foliage each day is important."
+					]
+	},
+	{
+		"Plant_Name": "Potato",
+		"Plant_Disease": "Healthy",
+		"Suggestions":[
+					 "1) Plant potatoes in a sunny place with at least 6 hours of directly sunlight each day.",
+					 "2) The tubers need to grow in fertile, loose, well-drained soil; hard or compacted soil leads to misshapen tubers.",
+					 "3) Ideally, soil is slightly acid (pH 5.8 to 6.5) and the soil temperature is at least 45º to 55ºF  (7° to 13°C).",
+					 "4) Potatoes need 1 to 2 inches of water a week."
+					 ]
+	},
+	{
+		"Plant_Name": "Raspberry",
+		"Plant_Disease": "Healthy",
+		"Suggestions":[
+					 "1) Raspberry is a cane growing plant that grows 1.2-2.25 meters high and grows well in neutral to slightly acidic soils rich in humus and well drained.",
+					 "2) They do not do well in soils that retain too much moisture nor do they do well in alkaline soils.",
+					 "3) Raspberries also dont like lime so don't add it to your fertilizer or use mushrooom compost."
+					 ]
+	},
+	{
+		"Plant_Name": "Soybean",
+		"Plant_Disease": "Healthy",
+		"Suggestions":[
+					 "1) Soybeans should be provided with irrigation at flowering and again at seed-set for maximum seed fill and optimal yield.",
+					 "2) Irrigation should be increased in sandy soils that do not retain as much moisture.",
+					 "3) Basic requirements Soybean is a short-day plant, requiring hot weather for optimum production.",
+					 "4) It can be grown year round in most parts of the tropics.",
+					 "5) Plants can be grown at ambient temperatures between 15 and 27°C (60–80°F) although temperature below 21°C (69.8°F) and above 32 (89.6°F) may reduce flowering."		
+					 ]
+	},
+	{
+		"Plant_Name": "Squash",
+		"Plant_Disease": "Powdery Mildew",
+		"Disease_Description":"The first sign of powdery mildew on squash are small, white, dusty spots on the young leaves. Initially, there will only be a few spots, but it spreads quickly, eventually covering the entire leaf surface. Powdery mildew is most commonly seen on the top of the leaves, but it can also appear on the leaf undersides, the stems, and even on the fruits.",
+		"Treatment":[
+					 "1) There are a number of organic options available as well as traditional fungal sprays.",
+					 "2) Sulfur and “Stylet” oil are effective products for powdery mildew control.",
+					 "3) Fixed copper fungicides have also shown results in managing powdery mildew.",
+					 "4) Neem oil is also an effective combatant for managing powdery mildew."
+					]
+	},
+	{
+		"Plant_Name": "Strawberry",
+		"Plant_Disease": "Leaf Scorch",
+		"Disease_Description":"Scorched strawberry leaves are caused by a fungal infection which affects the foliage of strawberry plantings. The fungus responsible is called Diplocarpon earliana. Strawberries with leaf scorch may first show signs of issue with the development of small purplish blemishes that occur on the topside of leaves.Over time, the spots will continue to grow larger and darken. In severe cases, dark spots may even cover entire portions of strawberry plant leaves and cause them to completely dry and fall from the plant.",
+		"Treatment":[
+					 "1) Since this fungal pathogen overwinters on the fallen leaves of infected plants, proper garden sanitation is key.",
+					 "2) This includes the removal of infected garden debris from the strawberry patch, as well as the frequent establishment of new strawberry transplants.",
+					 "3) The creation of new plantings and strawberry patches is key to maintaining a consistent strawberry harvest, as older plants are more likely to show signs of severe infection.",
+					 "4) When making new plantings always ensure that good planting practices are implemented.",
+					 "5) These practices include the use of proper plant spacing to provide adequate air circulation and the use of drip irrigation.",
+					 "6) The avoidance of waterlogged soil and frequent garden cleanup will help to reduce the likelihood of spread of this fungus."
+					]
+	},
+	{
+		"Plant_Name": "Strawberry",
+		"Plant_Disease": "Healthy",
+		"Suggestions":[
+					 "1) Look for Varieties Resistant to Disease.",
+					 "2) Make Sure You Plant Enough.",
+					 "3) Plant at the Right Depth.",
+					 "4) Delay the Gratification.",
+					 "5) Watch for Snails and Slugs.",
+					 "6) Water Wisely."		
+					 ]	
+	},
+	{
+		"Plant_Name": "Tomato",
+		"Plant_Disease": "Bacterial Spot",
+		"Disease_Description":"Bacterial spot of tomato is caused by Xanthomonas vesicatoria, Xanthomonas euvesicatoria, Xanthomonas gardneri, and Xanthomonas perforans.  These bacterial pathogens can be introduced into a garden on contaminated seed and transplants, which may or may not show symptoms. The pathogens enter plants through natural openings (e.g., stomates), as well as through wounds.",
+		"Treatment":[
+					 "1) A plant with bacterial spot cannot be cured.",
+					 "2) Remove symptomatic plants from the field or greenhouse to prevent the spread of bacteria to healthy plants.",
+					 "3) Burn, bury or hot compost the affected plants and DO NOT eat symptomatic fruit.",
+					 "4) Although bacterial spot pathogens are not human pathogens, the fruit blemishes that they cause can provide entry points for human pathogens that could cause illness."
+					]
+	},
+	{
+		"Plant_Name": "Tomato",
+		"Plant_Disease": "Early Blight",
+		"Disease_Description":"Early blight of tomato is caused primarily by the fungus Alternaria linariae, although other species of Alternaria may be isolated from lesions.Symptoms of early blight can occur on the foliage, fruit, and stem at any stage of development. The disease is more commonly observed in the field, however, seedlings in the greenhouse can be affected by collar rot (also caused by species of Alternaria).",
+		"Treatment":[
+					 "1) Tomatoes that have early blight require immediate attention before the disease takes over the plants.",
+					 "2) Thoroughly spray the plant (bottoms of leaves also) with Bonide Liquid Copper Fungicide concentrate or Bonide Tomato & Vegetable.",
+					 "3) Both of these treatments are organic. If possible time applications so that 12 hours of dry weather follows applications.",
+					 "4) A day after treatment, remove the lower branches with sharp razor blade knife.Repeat fungicide treatments every 7 to 14 days."
+					]
+	},
+	{
+		"Plant_Name": "Tomato",
+		"Plant_Disease": "Late Blight",
+		"Disease_Description":"Late blight is spread from infected transplants, Spores of this fungus can be airborne and travel great distances in storms.Late blight is favored by cool, wet weather and will cycle repeatedly if weather conditions are favorable.Late blight symptoms include leaf, stem, and fruit lesions that have a water-soaked appearance.",
+		"Treatment":[
+					 "1) Spraying fungicides is the most effective way to prevent late blight.",
+					 "2) For conventional gardeners and commercial producers, protectant fungicides such as chlorothalonil (e.g., Bravo, Echo, Equus, or Daconil) and Mancozeb (Manzate) can be used.",
+					 "3) Fixed copper products (Kocide) can be used to prevent late blight infection."
+					]
+	},
+	{
+		"Plant_Name": "Tomato",
+		"Plant_Disease": "Leaf Mold",
+		"Disease_Description":"Tomato leaf mold is a foliar disease that is especially problematic in greenhouse and high tunnels.Leaf mold of tomato is caused by pathogen Passalora fulva. It is found throughout the world, predominantly on tomatoes grown where the relative humidity is high, particularly in plastic greenhouses.",
+		"Treatment":[
+					 "1) If growing tomatoes in a greenhouse, maintain night temps higher than outside temperatures.",
+					 "2) When planting, use only certified disease-free seed or treated seed.",
+					 "3) Fixed copper products (Kocide) can be used to prevent late blight infection.",
+					 "4) Remove and destroy all crop debris post-harvest.",
+					 "5) Sanitize the greenhouse between crop seasons.",
+					 "6) Use fans and avoid overhead watering to minimize leaf wetness.",
+					 "7) Also, stake and prune plants to increase ventilation."
+					]
+	},
+	{
+		"Plant_Name": "Tomato",
+		"Plant_Disease": "Septoria Leaf Spot",
+		"Disease_Description":"Septoria leaf spot is caused by the fungus Septoria lycopersici. This fungus can attack tomatoes at any stage of development, but symptoms usually first appear on the older, lower leaves and stems when plants are setting fruit. Symptoms usually appear on leaves, but can occur on petioles, stems, and the calyx.",
+		"Treatment":[
+					 "1) Remove diseased leaves.",
+					 "2) Improve air circulation around the plants.",
+					 "3) Mulch around the base of the plants, Mulching will reduce splashing soil.",
+					 "4) Use crop rotation.",
+					 "5) Next year do not plant tomatoes back in the same location where diseased tomatoes grew.",
+					 "6) Use Fungicidal Sprays."
+					]
+	},
+	{
+		"Plant_Name": "Tomato",
+		"Plant_Disease": "Spider Mites",
+		"Disease_Description":"The two-spotted spider mite is the most common mite species that attacks vegetable and fruit crops in New England. Spider mites can occur in tomato, eggplant, potato, vine crops such as melons, cucumbers, and other crops. Two-spotted spider mites are one of the most important pests of eggplant.",
+		"Treatment":[
+					 "1) Long-lasting insecticides, such as bifenthrin and permethrin can be used on twospotted spider infestations.",
+					 "2) These insecticides also kill natural enemies and could possibly make infestations worse in the long run.",
+					 "3) If two-spotted spider mites continue to be a problem after control efforts have been attempted, and the plants are valued, consider hiring a landscape professional to treat them."
+					]
+	},
+	{
+		"Plant_Name": "Tomato",
+		"Plant_Disease": "Target Spot",
+		"Disease_Description":"Target spot of tomato is caused by the fungal pathogen Corynespora cassiicola.1 The disease occurs on field-grown tomatoes in tropical and subtropical regions of the world. Target spot infections reduce yield indirectly by reducing the photosynthetic area and directly by reducing the fruit’s marketability through fruit spots.",
+		"Treatment":[
+					 "1) The primary strategy used to manage target spot on tomato is the regular application of fungicides.",
+					 "2) Applications should begin before symptoms appear when conditions are favorable for infection and disease development.",
+					 "3) Fungicides may need to be applied at regular intervals.",
+					 "4) Many fungicides are registered to control of target spot on tomatoes.",
+					 "5) Growers should consult regional disease management guides for recommended products."
+					]
+	},
+	{
+		"Plant_Name": "Tomato",
+		"Plant_Disease": "Curl Virus",
+		"Disease_Description":"Tomato yellow leaf curl virus is mainly known to cause devastating losses of up to 100 per cent in the yield of tomatoes. Both field and glasshouse grown tomatoes are susceptible. The most obvious symptoms in tomato plants are small leaves that become yellow between the veins. The leaves also curl upwards and towards the middle of the leaf.",
+		"Treatment":[
+					 "1) Use a neonicotinoid insecticide, such as dinotefuran (Venom) imidacloprid (AdmirePro, Alias, Nuprid, Widow, and others) or thiamethoxam (Platinum), as a soil application or through the drip irrigation system at transplanting of tomatoes or peppers.",
+					 "2) Sanitation is very important for preventing the migration of whitefly adults and the spread of TYLCV.",
+					 "3) Rogue tomato or pepper plants with early symptoms of TYLCV can be removed from fields by placing infected-looking plants in plastic bags immediately at the beginning season."
+					]
+	},
+	{
+		"Plant_Name": "Tomato",
+		"Plant_Disease": "Mosaic Virus",
+		"Disease_Description":"Tomato mosaic virus Long considered a strain of TMV, ToMV is a distinct viral species, also transmitted by contact. it's a pathogenic virus. The foliage of affected tomato plants shows mottling, with alternating yellowish and darker green areas, the latter often appearing thicker and raised giving a blister-like appearance.",
+		"Treatment":[
+					 "1) Remove all infected plants and destroy them.",
+					 "2) Do NOT put them in the compost pile, as the virus may persist in infected plant matter.",
+					 "3) Monitor the rest of your plants closely, especially those that were located near infected plants.",
+					 "4) Disinfect gardening tools after every use.",
+					 "5) Keep a bottle of a weak bleach solution or other antiviral disinfectant to wipe your tools down with."	
+					]
+	},
+	{
+		"Plant_Name": "Tomato",
+		"Plant_Disease": "Healthy",
+		"Suggestions":[
+					 "1) More sun equals more fruit.",
+					 "2) Beef up the Soil.",
+					 "3) Plant Deeply & Fertilize your tomato garden.",
+					 "4) Water Deeply and Mulch, Mulch, Mulch.",
+					 "5) Proper spacing and planting in a tomato garden.",
+					 "6) Monitor for pests and diseases."		
+					 ]	
+	}
+]
