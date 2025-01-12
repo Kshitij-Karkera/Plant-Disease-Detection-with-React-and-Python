@@ -143,6 +143,22 @@
   -webkit-animation: rotation 1s linear infinite;
           animation: rotation 1s linear infinite;
 }
+
+.loader-30 {
+	margin-top: 7em;
+	width: 30px;
+	height: 30px;
+	border: 4px solid;
+	border-top-color: #3081ED;
+	border-left-color: transparent;
+	border-bottom-color: #9B51E0;
+	border-right-color: transparent;
+	border-radius: 50%;
+	display: inline-block;
+	-webkit-animation: rotation 1s linear infinite;
+			animation: rotation 1s linear infinite;
+  }
+
 @-webkit-keyframes rotation {
   0% {
     transform: rotate(0deg);

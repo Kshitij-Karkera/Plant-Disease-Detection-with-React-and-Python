@@ -43,23 +43,32 @@ function Home() {
 
     const handleFileUpload = async() => {
             setIsLoading(true)
-            let formData = new FormData()
-            formData.append("file", imageUpload)
-            let res = await axios({
-                method: "post",
-                responseType: 'json',
-                url: 'http://127.0.0.1:8000/predict',
-                data: formData,
-            })
-            if(res.status === 200) {
-                navigate("/Details")
-                setIsLoading(false)
-            }
-
-            dispatch({
-                type:"SET_DATA",
-                item:res
-            })
+            setTimeout(async () => {
+                let formData = new FormData()
+                formData.append("file", imageUpload)
+    
+                try {
+                    let res = await axios({
+                        method: "post",
+                        responseType: 'json',
+                        url: 'http://127.0.0.1:8000/predict',
+                        data: formData,
+                    })
+    
+                    if (res.status === 200) {
+                        navigate("/Details")
+                    }
+    
+                    dispatch({
+                        type: "SET_DATA",
+                        item: res
+                    })
+                } catch (error) {
+                    console.error("File upload error: ", error)
+                } finally {
+                    setIsLoading(false)
+                }
+            }, 750) 
     }
 
   return (
