@@ -9,7 +9,19 @@ Plant Disease Detection is a web-based application leveraging React for the fron
 ```
 
 ```bash
-  python main.py
+  uvicorn main:app --reload
 ```
 
+## Run React App
 
+```bash
+  cd sapling
+```
+
+```bash
+  npm i
+```
+
+```bash
+  npm start
+```
