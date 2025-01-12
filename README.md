@@ -32,9 +32,11 @@ Plant Disease Detection is a web-based application leveraging React for the fron
 ![Home Screen](./screenshots/Home_screen.png)
 
 
+
 **Disease Description**
 
 ![Disease Description](./screenshots/Disease_description.png)
+
 
 
 **Treatment**
@@ -42,12 +44,13 @@ Plant Disease Detection is a web-based application leveraging React for the fron
 ![Treatment](./screenshots/Treatment.png)
 
 
+
 **Feedback Form**
 
 ![Feedback Form](./screenshots/Feedback.png)
 
 
+
 **Feedback Acknowledgement**
 
 ![Feedback Acknowledgement](./screenshots/Feedback_acknowledgement.png)
-
