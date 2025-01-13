@@ -19,10 +19,6 @@ Plant Disease Detection is a web-based application leveraging React for the fron
 ```
 
 ```bash
-  npm i
-```
-
-```bash
   npm start
 ```
 
