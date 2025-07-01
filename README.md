@@ -7,7 +7,6 @@ Plant Disease Detection is a web-based application leveraging React for the fron
 ```bash
   cd API
 ```
-
 ```bash
   uvicorn main:app --reload
 ```
@@ -17,7 +16,9 @@ Plant Disease Detection is a web-based application leveraging React for the fron
 ```bash
   cd sapling
 ```
-
+```bash
+  npm install
+```
 ```bash
   npm start
 ```
