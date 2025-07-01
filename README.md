@@ -2,7 +2,7 @@
 Plant Disease Detection is a web-based application leveraging React for the frontend and Python (FastAPI, PyTorch) for the backend. It uses an SVM-trained machine learning model to identify plant diseases from images, providing farmers and researchers with accurate, real-time diagnostics for better crop health management.
 
 
-## Run Python Model 
+## Run command for Python Model 
 
 ```bash
   cd API
@@ -11,7 +11,7 @@ Plant Disease Detection is a web-based application leveraging React for the fron
   uvicorn main:app --reload
 ```
 
-## Run React App
+## Run command for React App
 > **Note:** Run the below commands in a separate terminal.
 ```bash
   cd sapling
