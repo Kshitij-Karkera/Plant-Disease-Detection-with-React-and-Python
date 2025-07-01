@@ -13,7 +13,7 @@ Plant Disease Detection is a web-based application leveraging React for the fron
 ```
 
 ## Run React App
-
+> **Note:** Run the below commands in a separate terminal.
 ```bash
   cd sapling
 ```
